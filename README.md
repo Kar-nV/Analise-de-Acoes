@@ -1,3 +1,1 @@
-# Webpage-Estatica-de-Acoes
-
-#Projeto em andamento
+# Webpage-Estatica-de-Acoes (Projeto em andamento)
