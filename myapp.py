@@ -15,7 +15,6 @@ def obter_moeda(opcao_mercado):
     if opcao_mercado == "Nacional":
         return "BRL"
     else:
-        # Adicione aqui lógica adicional para determinar a moeda para ações globais
         return "USD"
 
 # Título principal
@@ -61,7 +60,7 @@ if st.sidebar.button("Visualizar Gráficos"):
             st.markdown("Este gráfico mostra a variação do preço de fechamento da ação ao longo do tempo.")
             st.line_chart(round(ticker_df.Close, 2), use_container_width=True)
 
-            # Adicionando cores aos valores máximos e mínimos
+            # Cores de valores máximos e mínimos
             max_value = round(ticker_df.Close.max(), 2)
             min_value = round(ticker_df.Close.min(), 2)
 
