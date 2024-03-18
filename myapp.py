@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 from forex_python.converter import CurrencyRates
 
-# Configurando a página
 st.set_page_config(
     page_title="Aplicativo de Ações",
     page_icon="💹",
