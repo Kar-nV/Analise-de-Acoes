@@ -1,13 +1,6 @@
-# Aplicativo de Visualização de Ações 💹
+# Aplicativo para Visualização de Ações
 
-Este é um aplicativo web interativo que permite visualizar gráficos de preços de ações usando o **Y Finance**. O usuário pode escolher entre ações nacionais ou globais e especificar um período de tempo para obter dados detalhados sobre preços de fechamento, abertura, volume diário, entre outros.
-
-## Funcionalidades
-
-- Visualização de gráficos de preços de ações (fechamento, abertura, volume, e média móvel).
-- Escolha entre ações **Nacionais (B3)** ou **Globais**.
-- Suporte para visualização de ações de qualquer período selecionado pelo usuário.
-- Interface amigável usando **Streamlit** para exibir gráficos interativos.
+Este é um aplicativo web interativo que permite visualizar gráficos de preços de ações usando o **Y Finance**.
 
 ## Tecnologias Utilizadas
 
