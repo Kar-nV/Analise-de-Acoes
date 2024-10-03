@@ -2,6 +2,10 @@
 
 Este é um aplicativo web interativo que permite visualizar gráficos de preços de ações usando o **Y Finance**.
 
+Você pode buscar ticker de ações de x empresa no google ou pode utilizar este link para teste https://www.dadosdemercado.com.br/acoes
+
+Lembrando que é necessário ser em MAIÚSCULA e caso seja brasileira, deve conter .SA ao final. 
+
 ## Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação principal.
